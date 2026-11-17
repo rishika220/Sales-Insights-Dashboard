@@ -1,7 +1,7 @@
 # Sales-Insights-Dashboard
 An interactive Sales Dashboard built using Microsoft Power BI to analyze and visualize sales performance across different business dimensions.
 
-Short Description
+Description
    
 An interactive Power BI dashboard designed to analyze and visualize sales performance, profit, quantity, regional trends, customer segments, payment methods, and shipping modes. It helps transform raw sales data into meaningful business insights through dynamic visualizations and KPIs.
 
