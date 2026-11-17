@@ -84,3 +84,6 @@ Dashboard Screenshot – Sales Trends & State Analysis
 
 Sales Trend and State-wise Analysis
 
+https://github.com/rishika220/Sales-Insights-Dashboard/blob/main/Screenshot%202026-11-17%20191015.png
+
+
