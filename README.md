@@ -1,11 +1,11 @@
 # Sales-Insights-Dashboard
 An interactive Sales Dashboard built using Microsoft Power BI to analyze and visualize sales performance across different business dimensions.
 
-2. Short Description
+Short Description
    
 An interactive Power BI dashboard designed to analyze and visualize sales performance, profit, quantity, regional trends, customer segments, payment methods, and shipping modes. It helps transform raw sales data into meaningful business insights through dynamic visualizations and KPIs.
 
-4. Tech Stack
+Tech Stack
    
 Microsoft Power BI
 Power Query (Data Cleaning & Transformation)
@@ -13,12 +13,12 @@ DAX (Data Analysis Expressions)
 Data Visualization
 Microsoft Bing Maps
 
-6. Data Source
+Data Source
    
 Sales dataset containing order details, sales, profit, quantity, region, segment, payment mode, shipping mode, and product sub-categories.
 Dataset source: Not specified (replace with the actual dataset source if available).
 
-8. Features / Highlights
+Features / Highlights
    
 Sales KPI Cards: Total Sales (1.57M), Total Quantity (22K), Total Profit (175.26K), and Average Delivery Days.
 Regional Analysis: Interactive region filters for Central, East, South, and West.
