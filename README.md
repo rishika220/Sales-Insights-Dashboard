@@ -59,3 +59,4 @@ Dashboard Screenshot
 Sales Dashboard Preview
 
 An interactive Power BI dashboard showcasing sales, profit, regional performance, customer segments, payment modes, and product insights.
+https://github.com/rishika220/Sales-Insights-Dashboard/blob/main/Screenshot%202026-11-17%201836
