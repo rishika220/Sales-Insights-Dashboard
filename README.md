@@ -61,3 +61,26 @@ Sales Dashboard Preview
 An interactive Power BI dashboard showcasing sales, profit, regional performance, customer segments, payment modes, and product insights.
 
 https://github.com/rishika220/Sales-Insights-Dashboard/blob/main/Screenshot%202026-11-17%20183631.png
+
+#Sales Trend Analysis & State-wise Performance
+
+This dashboard section provides a detailed view of sales trends over time and state-wise sales performance.
+
+Key Features
+
+Sales Trend Analysis: Visualizes daily sales fluctuations over different time periods.
+Time-Based Analysis: Displays sales trends from August 2020 to January 2021.
+State-wise Sales Performance: Compares sales across different states.
+Top Performing States: California leads with 0.34M in sales, followed by New York (0.19M) and Texas (0.12M).
+Interactive Date Filters: Allows users to explore sales data within selected date ranges.
+Trend Visualization: Helps identify sales fluctuations, patterns, and potential growth opportunities.
+Key Insights
+
+California is the highest sales-generating state among the states displayed.
+New York and Texas are the next major contributors.
+Sales show frequent fluctuations across the analyzed period.
+State-level comparison helps identify high-performing markets and areas for improvement.
+Dashboard Screenshot – Sales Trends & State Analysis
+
+Sales Trend and State-wise Analysis
+
